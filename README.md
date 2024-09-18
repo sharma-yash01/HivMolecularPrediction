@@ -1,5 +1,7 @@
 # HivMolecularPrediction
-Project to train model which predicts whether a molecule has the ability to inhibit HIV 
+Project to train model which predicts whether a molecule has the ability to inhibit HIV.
+
+The Colab notebook can be found [here](https://colab.research.google.com/drive/1krCK8yhjONmVeUIz9pUY3MU3GTUlA4Fm?usp=sharing)
 
 # Notebook's Introduction
 
